@@ -11,3 +11,5 @@ Notes: If you're looking for the code from a specific episode, you can find it i
 ![Procedural Moons and Planets](https://raw.githubusercontent.com/SebLague/Images/master/Procedural%20moons%20and%20planets.png)
 
 ![SolarSystem](https://github.com/SebLague/Images/blob/master/Solar%20System.png?raw=true)
+
+my notes:
